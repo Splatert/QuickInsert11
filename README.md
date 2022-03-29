@@ -8,3 +8,5 @@ quickly insert parts without that inconvenience and as well as not scroll throug
 
 ## Usage
 Whenever you load up a place on Roblox Studio, run the script by going over to **Tools > Execute Script** then choose the script.
+
+Hope you find this useful.
